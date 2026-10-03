@@ -213,11 +213,12 @@ Turns real Windows folders into movable, resizable, semi-transparent desktop con
 ## 06 · GitHub Pulse
 
 <p align="center">
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZJY-HSBL&theme=github_dark" alt="GitHub profile summary" />
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZJY-HSBL&amp;theme=github_dark&amp;title_color=8B5CF6&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;icon_color=A78BFA&amp;chart_color=8B5CF6" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZJY-HSBL&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="46.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZJY-HSBL&amp;theme=github_dark&amp;title_color=8B5CF6&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;icon_color=A78BFA" alt="GitHub stats" />
+  <img width="46.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZJY-HSBL&amp;theme=github_dark&amp;title_color=8B5CF6&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=30363D&amp;chart_color=8B5CF6" alt="Top languages by repository" />
 </p>
 
 ---
