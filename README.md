@@ -221,7 +221,7 @@ Only a small number of representative repositories are shown here. The profile i
 <br>
 
 <p align="center">
-  <a href="https://www.zhihu.com/people/956f602ee4de1e07635161a771a2dd76"><b>知乎 / Zhihu</b></a>
+  <a href="https://www.zhihu.com/people/956f602ee4de1e07635161a771a2dd76"><b>知乎 / 海生不浪</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/ZJY-HSBL"><b>GitHub / ZJY-HSBL</b></a>
 </p>
