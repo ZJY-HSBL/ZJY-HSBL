@@ -6,7 +6,7 @@
   <a href="https://github.com/ZJY-HSBL">
     <img src="https://img.shields.io/badge/GitHub-ZJY--HSBL-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.zhihu.com/people/956f602ee4de1e07635161a771a2dd76">
+  <a href="https://www.zhihu.com/people/HSBLZHAOJY">
     <img src="https://img.shields.io/badge/Zhihu-海生不浪-1772F6?style=flat-square&logo=zhihu&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Publications-14-6D28D9?style=flat-square" />
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.zhihu.com/people/956f602ee4de1e07635161a771a2dd76"><b>知乎 · 海生不浪</b></a>
+  <a href="https://www.zhihu.com/people/HSBLZHAOJY"><b>知乎 · 海生不浪</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/ZJY-HSBL"><b>GitHub · ZJY-HSBL</b></a>
 </p>
