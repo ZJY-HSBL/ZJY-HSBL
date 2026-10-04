@@ -34,23 +34,23 @@
 
 **14 publications in total**, including **2 SCI-indexed journal papers** and **10 EI Compendex-indexed conference papers**. Selected core works:
 
-- **Second Author** — **SNEIF-YOLO11: A Lightweight Real-Time Framework for Fighting Behavior Detection**  
+- **Second Author** — **[SNEIF-YOLO11: A Lightweight Real-Time Framework for Fighting Behavior Detection](https://doi.org/10.1007/s11760-025-04731-2)**  
   *Signal, Image and Video Processing* · SCI · 2025
 
-- **Fourth Author** — **ABCP-YOLO11: An Attention-Enhanced Framework for Intelligent Fracture Detection**  
+- **Fourth Author** — **[ABCP-YOLO11: An Attention-Enhanced Framework for Intelligent Fracture Detection](https://doi.org/10.1007/s11760-026-05303-8)**  
   *Signal, Image and Video Processing* · SCI · 2026
 
-- **First Author** — **Efficient Multi-Object Tracking in Traffic Surveillance based on Adaptive FairMot and Low-Confidence Matching**  
+- **First Author** — **[Efficient Multi-Object Tracking in Traffic Surveillance based on Adaptive FairMot and Low-Confidence Matching](https://doi.org/10.1109/ISPP69262.2026.11542983)**  
   ISPP 2026 · EI Compendex
 
-- **First Author** — **A Lightweight Face Detection Framework Based on ShuffleNet and Coordinate Attention**  
+- **First Author** — **[A Lightweight Face Detection Framework Based on ShuffleNet and Coordinate Attention](https://doi.org/10.1109/GAIIS69281.2026.11519106)**  
   GAIIS 2026 · EI Compendex
 
-- **Second Author** — **Enhancing Selective State Space Models with Mixed Depthwise Convolution**  
+- **Second Author** — **[Enhancing Selective State Space Models with Mixed Depthwise Convolution](https://doi.org/10.1109/ISCCN69074.2026.11564064)**  
   ISCCN 2026 · EI Compendex
 
-- **Second Author** — **YOLO11-SEFNet: A Statistical-Aware Enhancement Network for Feature-Scarce and Camouflaged Agricultural Pests**  
-  XRHCIAI 2026 · EI Compendex
+- **Second Author** — **[YOLO11-SEFNet: A Statistical-Aware Enhancement Network for Feature-Scarce and Camouflaged Agricultural Pests](https://doi.org/10.1109/NNICE68970.2026.11465346)**  
+  NNICE 2026 · EI Compendex
 
 ---
 
