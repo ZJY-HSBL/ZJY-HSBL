@@ -1,4 +1,22 @@
-# ZJY-HSBL
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,30:18181B,65:312E81,100:7C3AED&height=190&section=header&text=ZJY-HSBL&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Visual%20Intelligence%20%C2%B7%20Efficient%20AI&descAlignY=60&descSize=16" alt="ZJY-HSBL" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZJY-HSBL">
+    <img src="https://img.shields.io/badge/GitHub-ZJY--HSBL-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.zhihu.com/people/HSBLZHAOJY">
+    <img src="https://img.shields.io/badge/Zhihu-海生不浪-1772F6?style=flat-square&logo=zhihu&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Publications-14-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/SCI-2-5B21B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/EI-10-4C1D95?style=flat-square" />
+</p>
+
+<p align="center">
+  <b>Computer Vision · Deep Learning · Multi-Object Tracking · Medical AI · Spatiotemporal Learning</b>
+</p>
 
 **海生不浪** · Software Engineering / 软件工程
 
@@ -41,4 +59,36 @@ I work on **computer vision, deep learning, and intelligent software systems**, 
 
 ---
 
-[View the portfolio / 访问个人网站](https://zjy-hsbl.github.io/) · [Explore all repositories / 浏览全部仓库](https://github.com/ZJY-HSBL?tab=repositories) · [海生不浪 · 知乎](https://www.zhihu.com/people/HSBLZHAOJY)
+## Stack / 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,qt,flask,java,c,cpp,mysql,linux,git,github,nginx,vscode&perline=8&theme=dark" alt="Technical stack" />
+</p>
+
+## GitHub / 动态贡献
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.zhihu.com/people/HSBLZHAOJY"><b>知乎 · 海生不浪</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ZJY-HSBL"><b>GitHub · ZJY-HSBL</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://zjy-hsbl.github.io/"><b>Portfolio · 个人网站</b></a>
+</p>
+
+<p align="center">
+  <sub>Research · Engineering · Reproducibility</sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:312E81,100:09090B&height=85&section=footer" alt="footer" />
+</p>
