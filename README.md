@@ -1,126 +1,44 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,30:18181B,65:312E81,100:7C3AED&height=190&section=header&text=ZJY-HSBL&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Visual%20Intelligence%20%C2%B7%20Efficient%20AI&descAlignY=60&descSize=16" alt="ZJY-HSBL" />
-</p>
+# ZJY-HSBL
 
-<p align="center">
-  <a href="https://github.com/ZJY-HSBL">
-    <img src="https://img.shields.io/badge/GitHub-ZJY--HSBL-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.zhihu.com/people/HSBLZHAOJY">
-    <img src="https://img.shields.io/badge/Zhihu-海生不浪-1772F6?style=flat-square&logo=zhihu&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Publications-14-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCI-2-5B21B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/EI-10-4C1D95?style=flat-square" />
-</p>
+**海生不浪** · Software Engineering / 软件工程
 
-<p align="center">
-  <b>Computer Vision · Deep Learning · Multi-Object Tracking · Medical AI · Spatiotemporal Learning</b>
-</p>
+[Personal Website / 个人网站](https://zjy-hsbl.github.io/) · [Zhihu / 知乎](https://www.zhihu.com/people/HSBLZHAOJY) · [Repositories / 代码仓库](https://github.com/ZJY-HSBL?tab=repositories)
 
----
+## About / 关于
 
-## About
+I work on **computer vision, deep learning, and intelligent software systems**, with an emphasis on reproducible experiments and practical engineering. My current interests include object detection, multi-object tracking, medical imaging, and spatiotemporal modeling.
 
-**Software Engineering** · focused on **computer vision, deep learning and intelligent systems**.
+主要关注**计算机视觉、深度学习与智能软件系统**，重视实验可复现性与工程实现。研究兴趣包括目标检测、多目标跟踪、医学影像和时空建模。
 
-主要关注 **目标检测、多目标跟踪、医学影像、轻量化网络、时空建模与多模态学习**，并重视从算法设计、实验评估到工程实现的完整链路。
+## Selected Work / 代表项目
 
-> Research → Implementation → Evaluation → System
+**Research & Algorithms / 科研与算法**
 
----
+- **[AMFTrack](https://github.com/ZJY-HSBL/AMFTrack)** — Multi-object tracking with adaptive motion estimation and feature association. / 自适应运动估计与特征关联的多目标跟踪系统。
+- **[DynaFlux](https://github.com/ZJY-HSBL/DynaFlux)** — Multi-scale dynamic graph learning for traffic-flow forecasting. / 面向交通流预测的多尺度动态图学习框架。
+- **[ScolioVision](https://github.com/ZJY-HSBL/ScolioVision)** — Research-oriented scoliosis imaging and rehabilitation workflow. / 面向脊柱侧弯影像分析与康复交互的科研系统。
+- **[BoundEvo](https://github.com/ZJY-HSBL/BoundEvo)** — Reproducible adaptive-boundary evolutionary optimization. / 可复现的自适应边界进化优化算法。
 
-## Selected Publications
+**Software & Tools / 软件与工具**
 
-**14 publications in total**, including **2 SCI-indexed journal papers** and **10 EI Compendex-indexed conference papers**. Selected core works:
+- **[Iterduca](https://github.com/ZJY-HSBL/Iterduca)** — Windows desktop network-routing client based on PyQt6 and Mihomo. / 基于 PyQt6 与 Mihomo 的 Windows 网络路由客户端。
+- **[FolderBox](https://github.com/ZJY-HSBL/FolderBox)** — Lightweight desktop folder containers and workspace management. / 轻量级桌面文件夹容器与工作区管理工具。
+- **[Vitrunda](https://github.com/ZJY-HSBL/Vitrunda)** — Experimental native Windows hidden-desktop interface with fluid glass transitions. / 采用流体玻璃过渡效果的 Windows 原生隐藏桌面原型。
 
-- **Second Author** — **[SNEIF-YOLO11: A Lightweight Real-Time Framework for Fighting Behavior Detection](https://doi.org/10.1007/s11760-025-04731-2)**  
-  *Signal, Image and Video Processing* · SCI · 2025
+## Selected Publications / 代表论文
 
-- **Fourth Author** — **[ABCP-YOLO11: An Attention-Enhanced Framework for Intelligent Fracture Detection](https://doi.org/10.1007/s11760-026-05303-8)**  
-  *Signal, Image and Video Processing* · SCI · 2026
+- **SNEIF-YOLO11: A Lightweight Real-Time Framework for Fighting Behavior Detection** — *Signal, Image and Video Processing*, 2025 · Second author · [DOI](https://doi.org/10.1007/s11760-025-04731-2)
+- **ABCP-YOLO11: An Attention-Enhanced Framework for Intelligent Fracture Detection** — *Signal, Image and Video Processing*, 2026 · Fourth author · [DOI](https://doi.org/10.1007/s11760-026-05303-8)
+- **Efficient Multi-Object Tracking in Traffic Surveillance based on Adaptive FairMot and Low-Confidence Matching** — ISPP 2026 · First author · [DOI](https://doi.org/10.1109/ISPP69262.2026.11542983)
+- **A Lightweight Face Detection Framework Based on ShuffleNet and Coordinate Attention** — GAIIS 2026 · First author · [DOI](https://doi.org/10.1109/GAIIS69281.2026.11519106)
 
-- **First Author** — **[Efficient Multi-Object Tracking in Traffic Surveillance based on Adaptive FairMot and Low-Confidence Matching](https://doi.org/10.1109/ISPP69262.2026.11542983)**  
-  ISPP 2026 · EI Compendex
+## Honors & Research / 荣誉与科研
 
-- **First Author** — **[A Lightweight Face Detection Framework Based on ShuffleNet and Coordinate Attention](https://doi.org/10.1109/GAIIS69281.2026.11519106)**  
-  GAIIS 2026 · EI Compendex
-
-- **Second Author** — **[Enhancing Selective State Space Models with Mixed Depthwise Convolution](https://doi.org/10.1109/ISCCN69074.2026.11564064)**  
-  ISCCN 2026 · EI Compendex
-
-- **Second Author** — **[YOLO11-SEFNet: A Statistical-Aware Enhancement Network for Feature-Scarce and Camouflaged Agricultural Pests](https://doi.org/10.1109/NNICE68970.2026.11465346)**  
-  NNICE 2026 · EI Compendex
+- **2025** · 全国大学生数学建模竞赛（高教社杯）本科组 · **国家二等奖** / National Second Prize
+- **2025** · 第十七届全国大学生数学竞赛（非数学 A 类）· **国家三等奖** / National Third Prize
+- **2026** · 江苏省高等学校第二十三届高等数学竞赛本科一级 A · **省二等奖** / Provincial Second Prize
+- **Ongoing / 在研** · 多模态 MRI 脑肿瘤病灶检测与分割研究 / Multimodal MRI brain-tumor detection and segmentation
 
 ---
 
-## Honors
-
-**National**
-
-- 2025 · 高教社杯全国大学生数学建模竞赛本科组 **二等奖**
-- 2025 · 第十七届全国大学生数学竞赛（非数学 A 类）**三等奖**
-
-**Provincial**
-
-- 2026 · 江苏省高等学校第二十三届高等数学竞赛本科一级 A **二等奖**
-- 2025 · 第十六届蓝桥杯江苏赛区 Python 程序设计大学 B 组 **三等奖**
-- 2025 · 第十二届江苏省大学生计算机设计大赛 **三等奖**
-- 2025 · 第十六届江苏省大学生机器人大赛密室夺宝项目 **三等奖**
-- 2025 · 第十九届“挑战杯”江苏省选拔赛 **三等奖**
-
----
-
-## Innovation
-
-- **2024 · Provincial · Project Lead · Completed** — 《数字化升级：云计算与区块链技术赋能智能打印机》
-- **2025 · Provincial · Member · Completed** — 《基于多模态融合与深度增强的夜间人脸识别技术研究》
-- **2026 · Project Lead · Ongoing** — 《基于多模态特征融合的脑肿瘤 MRI 病灶检测与分割系统研究》
-
----
-
-## Selected Research Systems
-
-- **[Fighting-Behavior](https://github.com/ZJY-HSBL/Fighting-Behavior)** — lightweight real-time fighting behavior detection.
-- **[AMFTrack](https://github.com/ZJY-HSBL/AMFTrack)** — adaptive motion-feature multi-object tracking for traffic scenes.
-- **[DynaFlux](https://github.com/ZJY-HSBL/DynaFlux)** — multi-scale dynamic graph learning for traffic-flow forecasting.
-
-<p align="center">
-  <a href="https://github.com/ZJY-HSBL?tab=repositories"><b>All repositories →</b></a>
-</p>
-
----
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,qt,flask,java,c,cpp,mysql,linux,git,github,nginx,vscode&perline=8&theme=dark" alt="Technical stack" />
-</p>
-
----
-
-## GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ZJY-HSBL/ZJY-HSBL/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.zhihu.com/people/HSBLZHAOJY"><b>知乎 · 海生不浪</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ZJY-HSBL"><b>GitHub · ZJY-HSBL</b></a>
-</p>
-
-<p align="center">
-  <sub>Research · Engineering · Reproducibility</sub>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:312E81,100:09090B&height=85&section=footer" alt="footer" />
-</p>
+[View the portfolio / 访问个人网站](https://zjy-hsbl.github.io/) · [Explore all repositories / 浏览全部仓库](https://github.com/ZJY-HSBL?tab=repositories) · [海生不浪 · 知乎](https://www.zhihu.com/people/HSBLZHAOJY)
