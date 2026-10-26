@@ -1,52 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="280" viewBox="0 0 1040 280" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">ZJY-HSBL — Visual intelligence. Practical engineering.</title>
-  <desc id="desc">A dark violet research notebook with an animated network of connected points. Software engineering, visual intelligence, and efficient AI.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">海生不浪 · ZJY-HSBL</title>
+  <desc id="desc">Computer vision research and practical software engineering. An original editorial wordmark with flowing sea contours.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1040" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#121019"/>
-      <stop offset="1" stop-color="#251840"/>
-    </linearGradient>
-    <linearGradient id="trail" x1="704" y1="224" x2="1000" y2="64" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A78BFA" stop-opacity="0.12"/>
-      <stop offset="0.5" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#DDD6FE"/>
-    </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#C4B5FD" fill-opacity="0.12"/>
-    </pattern>
-    <clipPath id="bounds"><rect x="1" y="1" width="1038" height="278" rx="20"/></clipPath>
+    <linearGradient id="sea" x1="0" y1="220" x2="490" y2="50" gradientUnits="userSpaceOnUse"><stop stop-color="#243244"/><stop offset=".56" stop-color="#7DDFE7"/><stop offset="1" stop-color="#243244"/></linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="340"/></clipPath>
   </defs>
   <style>
-    .trail { stroke-dasharray: 12 8; animation: flow 14s linear infinite; }
-    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 5s ease-in-out infinite; }
-    @keyframes flow { to { stroke-dashoffset: -100; } }
-    @keyframes pulse { 0%, 100% { opacity: .35; transform: scale(1); } 50% { opacity: .7; transform: scale(1.3); } }
-    @media (prefers-reduced-motion: reduce) { .trail, .pulse { animation: none; } }
+    .current { stroke-dasharray: 170 580; animation: current 24s linear infinite; }
+    @keyframes current { to { stroke-dashoffset: -750; } }
+    @media (prefers-reduced-motion: reduce) { .current { animation: none; stroke-dasharray: none; opacity: .35; } }
   </style>
   <g clip-path="url(#bounds)">
-    <rect width="1040" height="280" fill="url(#background)"/>
-    <path d="M680 0H1040V280H680Z" fill="url(#grid)"/>
-    <circle cx="915" cy="140" r="108" stroke="#A78BFA" stroke-opacity="0.12"/>
-    <circle cx="915" cy="140" r="78" stroke="#A78BFA" stroke-opacity="0.12"/>
-    <path d="M710 218L771 166L821 188L872 101L925 131L996 63M771 166L760 88L872 101M821 188L927 222L925 131L1000 186" stroke="#A78BFA" stroke-opacity="0.25" stroke-width="1.5"/>
-    <path class="trail" d="M710 218L771 166L821 188L872 101L925 131L996 63" stroke="url(#trail)" stroke-width="2.5"/>
-    <g fill="#C4B5FD">
-      <circle cx="710" cy="218" r="4"/><circle cx="771" cy="166" r="5"/>
-      <circle cx="821" cy="188" r="4"/><circle cx="872" cy="101" r="6"/>
-      <circle cx="925" cy="131" r="5"/><circle cx="996" cy="63" r="4"/>
-      <circle cx="760" cy="88" r="3" opacity=".4"/><circle cx="927" cy="222" r="3" opacity=".4"/>
-      <circle cx="1000" cy="186" r="3" opacity=".4"/>
+    <rect width="1200" height="340" fill="#0D1117"/>
+    <g transform="translate(720 20)" stroke="url(#sea)" stroke-width="1" opacity=".65"><path d="M-35 62C60 6 135 -62 238 22S366 162 510 60"/><path d="M-35 75C60 19 135 -49 238 35S366 175 510 73"/><path d="M-35 88C60 32 135 -36 238 48S366 188 510 86"/><path d="M-35 101C60 45 135 -23 238 61S366 201 510 99"/><path d="M-35 114C60 58 135 -10 238 74S366 214 510 112"/><path d="M-35 127C60 71 135 3 238 87S366 227 510 125"/><path d="M-35 140C60 84 135 16 238 100S366 240 510 138"/><path d="M-35 153C60 97 135 29 238 113S366 253 510 151"/><path d="M-35 166C60 110 135 42 238 126S366 266 510 164"/><path d="M-35 179C60 123 135 55 238 139S366 279 510 177"/><path d="M-35 192C60 136 135 68 238 152S366 292 510 190"/><path d="M-35 205C60 149 135 81 238 165S366 305 510 203"/><path d="M-35 218C60 162 135 94 238 178S366 318 510 216"/><path d="M-35 231C60 175 135 107 238 191S366 331 510 229"/><path d="M-35 244C60 188 135 120 238 204S366 344 510 242"/><path d="M-35 257C60 201 135 133 238 217S366 357 510 255"/><path d="M-35 270C60 214 135 146 238 230S366 370 510 268"/></g>
+    <path class="current" d="M685 173C780 117 855 49 958 133S1086 273 1230 171" stroke="#7DDFE7" stroke-width="2" opacity=".5"/>
+    <g font-family="'Cascadia Code', Consolas, monospace" font-size="16" letter-spacing="1.6" fill="#8B9BB0">
+      <text x="52" y="42">ZJY-HSBL</text>
+      <text x="1148" y="42" text-anchor="end">RESEARCH / ENGINEERING</text>
     </g>
-    <circle class="pulse" cx="872" cy="101" r="15" stroke="#A78BFA"/>
-    <path d="M48 57H73" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
-    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-      <text x="86" y="62" font-size="14" font-weight="600" letter-spacing="2.8" fill="#C4B5FD">RESEARCH / ENGINEERING</text>
-      <text x="46" y="145" font-size="70" font-weight="750" letter-spacing="-3" fill="#F5F3FF">ZJY-HSBL<tspan fill="#A78BFA">.</tspan></text>
-      <text x="48" y="190" font-size="24" fill="#C4B5D8">Visual intelligence. Practical engineering.</text>
-      <text x="48" y="240" font-size="14" letter-spacing="1.4" fill="#C4B5FD">COMPUTER VISION</text>
-      <circle cx="221" cy="235" r="2" fill="#7C3AED"/>
-      <text x="237" y="240" font-size="14" letter-spacing="1.4" fill="#C4B5FD">EFFICIENT AI</text>
+    <path d="M480 719H661L692 1039Q646 989 598 941Q532 1033 432 1151Q700 1419 836 1705L1116 1669Q1089 1610 1058 1553H1972V1339H929Q883 1271 831 1205H1864L1856 719H2016V513H1852L1846 239H1998V35H1841Q1834 -119 1776.0 -176.5Q1718 -234 1609.0 -246.5Q1500 -259 1176 -263Q1148 -159 1116 -53Q1308 -59 1418 -59Q1479 -59 1523.5 -46.5Q1568 -34 1572 35H596L642 513H480ZM1454 847 1324 719H1588L1592 1001H1228Q1312 945 1454 847ZM1048 887 1170 1001H952L924 719H1265ZM1042 397 1168 513H904L878 239H1251Q1144 323 1042 397ZM1450 359 1328 239H1579L1585 513H1221Q1305 458 1450 359ZM256 1699Q412 1585 578 1443L392 1241Q254 1377 84 1515ZM194 1167Q346 1057 510 915L330 699Q268 761 30 977ZM264 571Q388 517 522 477Q430 139 336 -263Q206 -217 72 -181Q174 147 264 571Z" transform="translate(52.00 180) scale(0.045898 -0.045898)" fill="#F0F6FC"/>
+<path d="M112 93H954V433H362V703H954V1035H470Q339 777 176 553Q114 719 40 897Q246 1171 390 1627L688 1553Q644 1426 594 1305H954V1701H1254V1305H1918V1035H1254V703H1840V433H1254V93H1990V-185H112Z" transform="translate(152.58 180) scale(0.045898 -0.045898)" fill="#F0F6FC"/>
+<path d="M112 1577H1948V1305H1237Q1171 1138 1080 983H1176V749L1376 937Q1646 697 2028 345L1794 115Q1539 411 1176 741V-273H874V685Q616 364 232 97Q168 189 28 361Q662 774 900 1305H112Z" transform="translate(253.16 180) scale(0.045898 -0.045898)" fill="#F0F6FC"/>
+<path d="M1038 1637 1298 1713Q1349 1622 1406 1509H1874V533H1840L1978 359L1631 176Q1799 59 2018 13Q1946 -97 1860 -239Q1499 -133 1276 141Q1266 -37 1266 -131Q768 -227 674 -285L550 -73Q608 9 608 133V1509H1104Q1075 1567 1038 1637ZM1616 1273H872V1133H1616ZM1616 769V909H872V769ZM1046 533H872V57Q1067 95 1274 142Q1139 306 1046 533ZM1459 330Q1634 432 1760 533H1315Q1379 420 1459 330ZM230 1697Q390 1575 560 1439L380 1245Q256 1367 66 1521ZM182 1169Q358 1031 528 889L342 683Q218 805 18 979ZM286 591Q422 527 540 485L310 -281Q174 -229 52 -191Q152 77 286 591Z" transform="translate(353.74 180) scale(0.045898 -0.045898)" fill="#F0F6FC"/>
+    <path d="M52 210h48" stroke="#7DDFE7" stroke-width="3"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="52" y="261" fill="#8B9BB0" font-size="24" letter-spacing=".2">Computer vision. Useful software.</text>
     </g>
+    <path d="M52 326H1148" stroke="#243244"/>
+    <circle cx="1148" cy="326" r="3" fill="#7DDFE7"/>
   </g>
-  <rect x=".5" y=".5" width="1039" height="279" rx="20.5" stroke="#3B2B56"/>
 </svg>
